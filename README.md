@@ -17,7 +17,6 @@ Firstly, leveraging real-life data collected from both establishments, we utiliz
 Secondly, we implement a smart inventory management system designed to efficiently utilize expiring goods, thereby minimizing waste and maximizing resource utilization. This integrated approach ensures both precision in meeting customer demand and optimization of inventory management processes.
 
 ## Technology Used
-# Technology Used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
